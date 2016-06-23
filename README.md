@@ -1,2 +1,2 @@
 # Moneyball-NBA
-Do simple analysis similar to Moneyball to predict playoff team in NBA league
+Do simple analysis, similar to Moneyball to predict playoff teams for NBA league
